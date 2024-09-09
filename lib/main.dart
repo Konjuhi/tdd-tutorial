@@ -26,7 +26,7 @@ class MainApp extends StatelessWidget {
           useMaterial3: true,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-        home: const HomeScreen(),
+        home:  Container(),
       ),
     );
   }
