@@ -27,7 +27,7 @@ class MainApp extends StatelessWidget {
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
         home:  Container(
-          color: Colors.red,
+          color: Colors.blue,
         ),
       ),
     );
